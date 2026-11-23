@@ -1,0 +1,6 @@
+{
+  "name": "Danau Mikro",
+  "description": "Lingkungan diorama microvoxel superdetail dengan danau pusat, jalan melingkar, bangku tepi danau, langit fotorealistik, serta pengaturan posisi matahari dan bayangan real-time.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
